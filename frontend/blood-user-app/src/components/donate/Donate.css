@@ -1,0 +1,21 @@
+.donate button{
+    width: 15%;
+    padding: 7px;
+    font-size: 20px;
+    border-radius: 25px;
+    border: none;
+    color: white;
+    background: red ;
+    
+
+}
+
+/* .donate button{
+    width: 15%;
+    padding: 7px;
+    font-size: 20px;
+    border-radius: 25px;
+    border: none;
+    color: white;
+    background: blue
+}     */
